@@ -1,16 +1,16 @@
 <h3 align="center">Hi, I am Jawahir Ali | Software Engineering Student</h3>
-<div align="center"> <h5> THe University Of Azad Jammu and Kashmir Muzaffarabad</h5>
-  <h3>CALD - LABS - 2nd SEMESTER</h3>
+<h6 align="center">THe University Of Azad Jammu and Kashmir Muzaffarabad</h6>
+<h5><div align="Left">CALD - LABS - 2nd SEMESTER
   <p><strong>Course:</strong> Computer Architecture & Logic Design (CALD)</p>
   <p><strong>Semester:</strong> 2nd Semester</p>
   <p><strong>Student / Author:</strong> Jawahir Ali</p>
   <p><strong>GitHub Repository:</strong> 
     <a href="https://github.com/1Jawahir-Ali/CALD---LABS-2nd-SEMESTER" target="_blank">
-      1Jawahir-Ali/CALD---LABS-2nd-SEMESTER
+      1Jawahir-Ali/CALD-LABS-2nd-SEMESTER
     </a>
   </p>
   <hr style="width:100%;">
-</div>
+</div></h5>
 
 
 <h3>📘Overview</h3>
@@ -42,13 +42,14 @@ This repository contains my <b>Computer Architecture & Logic Design (CALD)</b> l
    git clone https://github.com/1Jawahir-Ali/CALD---LABS-2nd-SEMESTER.git
  <hr style="width:100%;">
 <h3>How to reach me</h3> 
-Email: Jawahirmehboob975@gmail.com<br>
-contact:+92 3488949899
+<h6>Email:<a href="mailto:jawahirmehboob975"> Jawahirmehboob975@gmail.com<br></h6></a>
+Contact:+92 3488949899
 
 
 
-<div align="center"> 
-  <!-- University Logo -->
-  <img src="download.jpg" alt="UAJ&K Logo" width="120" height="120"><br>
-  
+
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://linkedin.com/in/jawahir ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jawahir ali" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/jawahir ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jawahir ali" height="30" width="40" /></a>
   
